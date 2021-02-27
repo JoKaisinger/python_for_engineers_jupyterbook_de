@@ -1,0 +1,20 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: Einleitung
+- part: Python Einführungen
+  chapters:
+  - file: PythonBasics/Einführung
+- part: Python Weiterführende
+  chapters:
+  - file: PythonAdvanced/lambda
+- part: Wichtige Bibliotheken
+  chapters:
+  - file: Bibliotheken/numpy
+  - file: Bibliotheken/matplotlib
+  - file: Bibliotheken/scipy
+  - file: Bibliotheken/pandas
+- part: Eigene Bibliotheken schreiben
+  chapters:
+  - file: Poetry/poetry.md
+    
